@@ -480,6 +480,7 @@ article .icon {
   justify-content: center;
   gap: 0.5rem;
   margin: 1rem;
+  margin-right: 25px;
 }
 
 .contact-info-container p {
